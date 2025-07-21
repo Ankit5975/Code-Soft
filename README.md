@@ -26,7 +26,7 @@ Calculate total and percentage.
 
 Grade assignment based on percentage.
 
-Demo Video: [YouTube/LinkedIn Link]
+Demo Video: []
 
 🏧 Task 3: ATM Interface
 Description:
@@ -41,21 +41,3 @@ Method implementation for deposit, withdraw, checkBalance.
 Input validation and error handling.
 
 Demo Video: [YouTube/LinkedIn Link]
-
-📌 How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/CODSOFT.git
-cd CODSOFT
-Open each task in VS Code.
-
-Compile and run using:
-
-bash
-Copy
-Edit
-javac FileName.java
-java FileName
